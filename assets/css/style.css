@@ -1,11 +1,23 @@
 body {
-    background-color: #efeee7;
     margin:0;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #777777;
+    background-image: url("../images/tiny-squares.png");
+}
 
+h1 {
+    text-align: center;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    margin: 0px;
+    padding: 20px;
+    font-size: 28px;
+    width: 50%
+}
 
-
+h2 {
+    color: #4aaaa5
+}
 
 
 
@@ -17,7 +29,8 @@ body {
     
     color: #777777;
 }
-.nav {
+.nav, a {
     color: #777777;
     text-decoration: none;
+    float: right;
 }
