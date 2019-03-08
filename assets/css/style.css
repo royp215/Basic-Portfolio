@@ -20,17 +20,25 @@ body {
 header {
     width: 960px;
     margin: auto;  
-    
+
 }
 
-.nav, a {
+h1 nav .nav{
+    vertical-align: middle;
+}
 
-    color: #777777;
-    text-decoration: none;
+.nav ul li {
+
+    display: inline-block;
+    color: #777777;    
     float: right;
     padding-left: 20px;
     font-size: 24px;
-    vertical-align: 50%;
+   
+}
+
+a{
+    text-decoration: none;
     
 }
 
