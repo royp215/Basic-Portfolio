@@ -1,4 +1,5 @@
 
+/*index*/
 
 body {
     margin:0;
@@ -83,14 +84,16 @@ h2 {
     padding-left: 32px;
 }
 /*contact*/
+
 .contacth2{
     font-size: 34px;
 }
 
 form{
+    
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
-    padding-left: 32px;
+    margin-left: 32px;
     padding-right: 32px;
     padding-bottom: 20px;
     line-height: 26px;
@@ -126,12 +129,11 @@ input[type=textarea] {
 	color: #ffffff;
 	padding: 12px 48px;
 	border: none;
-	border-radius: 4px;
-	cursor: pointer;
 	font-size: 20px;
 	text-align: middle;
 }
 
+/*Portfolio*/
 
 
 
