@@ -23,10 +23,6 @@ header {
 
 }
 
-h1 nav .nav{
-    vertical-align: middle;
-}
-
 .nav ul li {
 
     display: inline-block;
@@ -86,4 +82,21 @@ h2 {
     float: left;
     padding-left: 32px;
 }
+/*contact*/
 
+
+
+/* FOOTER */
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: #666666;
+    color:#ffffff;
+    text-align: center;
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 3px;
+    border-top: 6px solid #4aaaa5;
+    font-size: 0.8em;
+}
