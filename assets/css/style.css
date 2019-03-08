@@ -28,8 +28,10 @@ header {
     color: #777777;
     text-decoration: none;
     float: right;
-    vertical-align: middle;
-
+    padding-left: 20px;
+    font-size: 24px;
+    vertical-align: 50%;
+    
 }
 
 h1 {
@@ -42,8 +44,18 @@ h1 {
 
 }
 
-h2 {
-    color: #4aaaa5
+.body{
+    width: 960px;
+    margin: auto;
+    background-color: #ffffff
 }
 
+h2 {
+    color: #4aaaa5;
+    text-align: left;
+}
+
+.profile{
+    float: left;
+}
 
