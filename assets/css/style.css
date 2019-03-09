@@ -1,5 +1,10 @@
 
 /*index*/
+.clearfix::after {
+    content: " ";
+    display: block;
+    clear: both;
+  }
 
 body {
     margin:0;
@@ -54,6 +59,7 @@ h1 {
     margin: auto;
     margin-top: 30px;
     background-color: #ffffff;
+    border: 1.5px solid #dddddd;
     text-align: ;
 }
  
@@ -65,7 +71,7 @@ h1 {
     padding-bottom: 20px;
     line-height: 36px;
     font-size: 16px;
-        
+
 
 }
 
