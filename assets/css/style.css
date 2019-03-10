@@ -39,6 +39,10 @@ header {
    
 }
 
+.nav ul li a.active {
+	color: #777777;
+}
+
 a{
     text-decoration: none;
     
@@ -161,6 +165,7 @@ input[type=textarea] {
 	color: #ffffff;
     z-index: 1000;
     width: 86.5%;
+    line-height: 0.9; 
     
 }
 
@@ -169,8 +174,7 @@ input[type=textarea] {
 	position: relative;
 	width: 270px;
     height: 200px;
-
-   
+     
 
 }
 
