@@ -180,7 +180,7 @@ input[type=textarea] {
 
 /* FOOTER */
 
-footer{
+.footer{
     position: relative;
     display: inline-grid;
     left: 0;
