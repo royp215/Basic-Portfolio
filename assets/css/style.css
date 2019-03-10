@@ -159,7 +159,7 @@ input[type=textarea] {
 /* FOOTER */
 
 footer{
-    position: fixed;
+    position: absolute;
     left: 0;
     bottom: 0;
     background-color: #666666;
