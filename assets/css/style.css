@@ -143,7 +143,16 @@ input[type=textarea] {
 
 /*Portfolio*/
 
-
+.item-name {
+	position: relative;
+	top: -100px;
+	text-align: center;
+	background-color: #4aaaa5;
+	padding: 1em;
+	color: #ffffff;
+    z-index: 1000;
+    width: 80px;
+}
 
 
 
@@ -159,7 +168,7 @@ input[type=textarea] {
 /* FOOTER */
 
 footer{
-    position: absolute;
+    position: fixed;
     left: 0;
     bottom: 0;
     background-color: #666666;
