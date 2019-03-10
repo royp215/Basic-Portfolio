@@ -152,23 +152,23 @@ input[type=textarea] {
 	color: #ffffff;
     z-index: 1000;
     width: 80px;
+    
 }
 
+.portfolio-item {
+	display: inline-block;
+	position: relative;
+	width: 270px;
+    height: 200px;
+   
 
-
-
-
-
-
-
-
-
-
+}
 
 /* FOOTER */
 
 footer{
-    position: fixed;
+    position: relative;
+    display: inline-grid;
     left: 0;
     bottom: 0;
     background-color: #666666;
